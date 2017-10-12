@@ -1,0 +1,290 @@
+{
+    "course_name": "Data Science Hands-on with Open Source Tools",
+    "course_code": "DS0105EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-hands-open-source-tools-2/"
+}
+{
+    "course_name": "Build Your Own Chatbot",
+    "course_code": "CB0103EN",
+    "course_link": "https://cognitiveclass.ai/courses/how-to-build-a-chatbot/"
+}
+{
+    "course_name": "Big Data 101",
+    "course_code": "BD0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/what-is-big-data/"
+}
+{
+    "course_name": "Data Science 101",
+    "course_code": "DS0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-101/"
+}
+{
+    "course_name": "Hadoop 101",
+    "course_code": "BD0111EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-hadoop/"
+}
+{
+    "course_name": "Python 101",
+    "course_code": "PY0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-python/"
+}
+{
+    "course_name": "R 101",
+    "course_code": "RP0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/r-101/"
+}
+{
+    "course_name": "Scala 101",
+    "course_code": "SC0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-scala/"
+}
+{
+    "course_name": "Deep Learning Fundamentals",
+    "course_code": "ML0115EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-deep-learning/"
+}
+{
+    "course_name": "Deep Learning with TensorFlow",
+    "course_code": "ML0120EN",
+    "course_link": "https://cognitiveclass.ai/courses/deep-learning-tensorflow/"
+}
+{
+    "course_name": "Text Analytics 101",
+    "course_code": "TA0105",
+    "course_link": "https://cognitiveclass.ai/courses/systemt/"
+}
+{
+    "course_name": "Watson Analytics 101",
+    "course_code": "WA0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-watson-analytics/"
+}
+{
+    "course_name": "Spark Fundamentals I",
+    "course_code": "BD0211EN",
+    "course_link": "https://cognitiveclass.ai/courses/what-is-spark/"
+}
+{
+    "course_name": "Machine Learning with Python",
+    "course_code": "ML0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/machine-learning-with-python/"
+}
+{
+    "course_name": "Machine Learning with R",
+    "course_code": "ML0151EN",
+    "course_link": "https://cognitiveclass.ai/courses/machine-learning-r/"
+}
+{
+    "course_name": "Data Science Methodology",
+    "course_code": "DS0103EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-methodology-2/"
+}
+{
+    "course_name": "MapReduce and YARN",
+    "course_code": "BD0115EN",
+    "course_link": "https://cognitiveclass.ai/courses/mapreduce-and-yarn/"
+}
+{
+    "course_name": "Data Visualization with Python",
+    "course_code": "DV0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-visualization-with-python/"
+}
+{
+    "course_name": "Using R with Databases",
+    "course_code": "RP0103",
+    "course_link": "https://cognitiveclass.ai/courses/using-r-with-databases/"
+}
+{
+    "course_name": "Statistics 101",
+    "course_code": "ST0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/statistics-101/"
+}
+{
+    "course_name": "Spark MLlib",
+    "course_code": "BD0221EN",
+    "course_link": "https://cognitiveclass.ai/courses/spark-mllib/"
+}
+{
+    "course_name": "Exploring Spark\u2019s GraphX",
+    "course_code": "BD0223EN",
+    "course_link": "https://cognitiveclass.ai/courses/spark-graphx/"
+}
+{
+    "course_name": "Data Journalism: First Steps, Skills and Tools",
+    "course_code": "DJ0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-data-journalism/"
+}
+{
+    "course_name": "Machine learning with Apache SystemML",
+    "course_code": "ML0111EN",
+    "course_link": "https://cognitiveclass.ai/courses/machine-learning-apache-systemml/"
+}
+{
+    "course_name": "Data Analysis with Python",
+    "course_code": "DA0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-analysis-python/"
+}
+{
+    "course_name": "Text Analytics at Scale",
+    "course_code": "TA0106EN",
+    "course_link": "https://cognitiveclass.ai/courses/adv-text-analytics-getting-results-with-systemt/"
+}
+{
+    "course_name": "Data Science Hands-on with Open Source Tools (Archived)",
+    "course_code": "DS0105EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-hands-open-source-tools/"
+}
+{
+    "course_name": "Predictive Modeling Fundamentals I",
+    "course_code": "PA0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/predictive-modeling-fundamentals/"
+}
+{
+    "course_name": "Analyzing Big Data in R using Apache Spark",
+    "course_code": "RP0105EN",
+    "course_link": "https://cognitiveclass.ai/courses/analyzing-big-data-r-using-apache-spark/"
+}
+{
+    "course_name": "Bitcoin 101",
+    "course_code": "DS0321EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-bitcoin/"
+}
+{
+    "course_name": "Apache Pig 101",
+    "course_code": "BD0121EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-pig/"
+}
+{
+    "course_name": "Spark Overview for Scala Analytics",
+    "course_code": "SC0103EN",
+    "course_link": "https://cognitiveclass.ai/courses/spark-overview-scala-analytics/"
+}
+{
+    "course_name": "Simplifying Data Pipelines with Apache Kafka",
+    "course_code": "BD0123EN",
+    "course_link": "https://cognitiveclass.ai/courses/simplifyingdatapipelines/"
+}
+{
+    "course_name": "Data Science with Scala",
+    "course_code": "SC0105EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-scala/"
+}
+{
+    "course_name": "Machine Learning \u2013 Dimensionality Reduction",
+    "course_code": "ML0109EN",
+    "course_link": "https://cognitiveclass.ai/courses/machine-learning-dimensionality-reduction/"
+}
+{
+    "course_name": "Data Privacy Fundamentals",
+    "course_code": "DS0301EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-privacy/"
+}
+{
+    "course_name": "Digital Analytics & Regression",
+    "course_code": "ML0103EN",
+    "course_link": "https://cognitiveclass.ai/courses/applied-data-science-digital-analytics-regression/"
+}
+{
+    "course_name": "Spark Fundamentals II",
+    "course_code": "BD0212EN",
+    "course_link": "https://cognitiveclass.ai/courses/spark-rdd/"
+}
+{
+    "course_name": "Mathematical Optimization for Business Problems",
+    "course_code": "CP0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/mathematical-optimization-for-business-problems/"
+}
+{
+    "course_name": "NoSQL and DBaaS 101",
+    "course_code": "DB0151EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-nosql-dbaas/"
+}
+{
+    "course_name": "\u5927\u6570\u636e\u7edf\u8ba1\u5206\u6790\u6280\u672f",
+    "course_code": "SP001",
+    "course_link": "https://cognitiveclass.ai/courses/%e5%a4%a7%e6%95%b0%e6%8d%ae%e7%bb%9f%e8%ae%a1%e5%88%86%e6%9e%90%e6%8a%80%e6%9c%af/"
+}
+{
+    "course_name": "\u5927\u6570\u636e\u5206\u6790\u4e4b\u6570\u636e\u6316\u6398\u6280\u672f",
+    "course_code": "SP002",
+    "course_link": "https://cognitiveclass.ai/courses/%e5%a4%a7%e6%95%b0%e6%8d%ae%e5%88%86%e6%9e%90%e4%b9%8b%e6%95%b0%e6%8d%ae%e6%8c%96%e6%8e%98%e6%8a%80%e6%9c%af/"
+}
+{
+    "course_name": "SQL and Relational Databases 101",
+    "course_code": "DB0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/learn-sql-relational-databases/"
+}
+{
+    "course_name": "Accessing Hadoop Data Using Hive",
+    "course_code": "BD0141EN",
+    "course_link": "https://cognitiveclass.ai/courses/hadoop-hive/"
+}
+{
+    "course_name": "SQL Access for Hadoop",
+    "course_code": "BD0145EN",
+    "course_link": "https://cognitiveclass.ai/courses/sql-access-for-hadoop/"
+}
+{
+    "course_name": "Using HBase for Real-time Access to your Big Data",
+    "course_code": "BD0143EN",
+    "course_link": "https://cognitiveclass.ai/courses/using-hbase-for-real-time-access-to-your-big-data/"
+}
+{
+    "course_name": "Developing Distributed Applications Using ZooKeeper",
+    "course_code": "BD0135EN",
+    "course_link": "https://cognitiveclass.ai/courses/developing-distributed-applications-using-zookeeper/"
+}
+{
+    "course_name": "Controlling Hadoop Jobs Using Oozie",
+    "course_code": "BD0133EN",
+    "course_link": "https://cognitiveclass.ai/courses/controlling-hadoop-jobs-using-oozie/"
+}
+{
+    "course_name": "Moving Data into Hadoop",
+    "course_code": "BD0131EN",
+    "course_link": "https://cognitiveclass.ai/courses/flume-sqoop-moving-data-into-hadoop/"
+}
+{
+    "course_name": "Solr 101",
+    "course_code": "BD0137EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-solr/"
+}
+{
+    "course_name": "OpenRefine 101",
+    "course_code": "DP0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-openrefine/"
+}
+{
+    "course_name": "Getting Started with the Data: Apache Spark Makers Build",
+    "course_code": "TMP0105EN",
+    "course_link": "https://cognitiveclass.ai/courses/apachesparkmakersbuild/"
+}
+{
+    "course_name": "Analyzing Big Data with a spreadsheet UI",
+    "course_code": "BD0153EN",
+    "course_link": "https://cognitiveclass.ai/courses/analyzing-big-data-spreadsheet-ui/"
+}
+{
+    "course_name": "Data Science Methodology \u2013 Version 1 (Archived)",
+    "course_code": "DS0103EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-science-methodology/"
+}
+{
+    "course_name": "Big Data 101 (Archived)",
+    "course_code": "BD0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-big-data/"
+}
+{
+    "course_name": "Machine Learning 101 \u2013 Version 1 (Archived)",
+    "course_code": "ML0101EN",
+    "course_link": "https://cognitiveclass.ai/courses/introduction-to-machine-learning/"
+}
+{
+    "course_name": "Data Analysis with R (Coming Soon!)",
+    "course_code": "",
+    "course_link": "https://cognitiveclass.ai/courses/data-analysis-r/"
+}
+{
+    "course_name": "Data Visualization with R",
+    "course_code": "DV0151EN",
+    "course_link": "https://cognitiveclass.ai/courses/data-visualization-with-r/"
+}

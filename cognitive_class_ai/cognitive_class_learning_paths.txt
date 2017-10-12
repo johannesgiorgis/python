@@ -1,0 +1,108 @@
+{
+    "lp_name": "Applied Data Science with Python (Coming October 23, 2017!)",
+    "lp_url": "https://cognitiveclass.ai/learn/data-science-python/",
+    "lp_badges": "0",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Applied Data Science with R (Coming Soon!)",
+    "lp_url": "https://cognitiveclass.ai/learn/data-science-r/",
+    "lp_badges": "1",
+    "lp_courses": "6"
+}
+{
+    "lp_name": "Big Data Analytics",
+    "lp_url": "https://cognitiveclass.ai/learn/analytics/",
+    "lp_badges": "2",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Big Data Fundamentals",
+    "lp_url": "https://cognitiveclass.ai/learn/big-data/",
+    "lp_badges": "4",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Big Data with IBM",
+    "lp_url": "https://cognitiveclass.ai/learn/big-data-ibm/",
+    "lp_badges": "4",
+    "lp_courses": "5"
+}
+{
+    "lp_name": "Cognitive Analytics with IBM",
+    "lp_url": "https://cognitiveclass.ai/learn/cognitive-analytics-ibm/",
+    "lp_badges": "2",
+    "lp_courses": "5"
+}
+{
+    "lp_name": "Data Management with IBM",
+    "lp_url": "https://cognitiveclass.ai/learn/data-management-ibm/",
+    "lp_badges": "0",
+    "lp_courses": "2"
+}
+{
+    "lp_name": "Data Science for Business",
+    "lp_url": "https://cognitiveclass.ai/learn/data-science-business/",
+    "lp_badges": "2",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Data Science Fundamentals",
+    "lp_url": "https://cognitiveclass.ai/learn/data-science/",
+    "lp_badges": "2",
+    "lp_courses": "4"
+}
+{
+    "lp_name": "Deep Learning",
+    "lp_url": "https://cognitiveclass.ai/learn/deep-learning/",
+    "lp_badges": "1",
+    "lp_courses": "2"
+}
+{
+    "lp_name": "Hadoop Administration",
+    "lp_url": "https://cognitiveclass.ai/learn/hadoop-administration/",
+    "lp_badges": "2",
+    "lp_courses": "4"
+}
+{
+    "lp_name": "Hadoop Data Access",
+    "lp_url": "https://cognitiveclass.ai/learn/big-data-storage-and-retrieval/",
+    "lp_badges": "2",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Hadoop Fundamentals",
+    "lp_url": "https://cognitiveclass.ai/learn/hadoop/",
+    "lp_badges": "5",
+    "lp_courses": "4"
+}
+{
+    "lp_name": "Hadoop Programming",
+    "lp_url": "https://cognitiveclass.ai/learn/big-data-hadoop-programming/",
+    "lp_badges": "2",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Scala Programming for Data Science",
+    "lp_url": "https://cognitiveclass.ai/learn/scala/",
+    "lp_badges": "2",
+    "lp_courses": "3"
+}
+{
+    "lp_name": "Spark Fundamentals",
+    "lp_url": "https://cognitiveclass.ai/learn/spark/",
+    "lp_badges": "2",
+    "lp_courses": "5"
+}
+{
+    "lp_name": "Text Analytics",
+    "lp_url": "https://cognitiveclass.ai/learn/text_analytics/",
+    "lp_badges": "2",
+    "lp_courses": "2"
+}
+{
+    "lp_name": "Watson Analytics",
+    "lp_url": "https://cognitiveclass.ai/learn/watson-analytics/",
+    "lp_badges": "1",
+    "lp_courses": "1"
+}
