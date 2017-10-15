@@ -40,7 +40,9 @@ def setup():
 	'''setup game'''
 
 	while True:
-		player = raw_input('Do you want to play as X or O? ')
+		#player = raw_input('Do you want to play as X or O? ')
+		player = input('Do you want to play as X or O? ')
+		
 		player = player.upper()
 
 		if player not in VALID_PLAYER_TYPES:
@@ -104,19 +106,17 @@ def check_game_end():
 def get_next_position(player_type):
 	'''gets player's next position'''
 	while True:
-		position = raw_input('Where do you want to place? ')
-		#print(position, type(position))
-		position = int(position)
+		position = input('Where do you want to place? (0-8) ')
+		valid_positions = [str(pos) for pos, val in enumerate(BOARD)]
 
-		#if not isinstance(position, int):
-		#	print('ERROR: Enter a value between 0 and {}'.format(BOARD_SIZE - 1))
-		if position not in range(BOARD_SIZE):
-			print('ERROR: You can only pick a position up to {}'.format(BOARD_SIZE - 1))
+		if position not in valid_positions:
+			print('ERROR: You can only pick a position (0 - 8)')
 		elif BOARD[position] != ' ':
 			print('ERROR: Board already occupied at position {}!'.format(position))
 		else:
 			break
 
+	position = int(position)
 	#print('\nPlacing {} in position {}'.format(player_type, position))
 	PLAYER_TRACKER[VALID_PLAYER_TYPES[player_type]] += 1
 	BOARD[position] = VALID_PLAYER_TYPES[player_type]
