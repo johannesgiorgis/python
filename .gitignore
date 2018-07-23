@@ -3,3 +3,7 @@
 
 # project
 *.log
+
+# folders
+Complete-Python-3-Bootcamp/
+.ipynb_checkpoints/
